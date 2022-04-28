@@ -7,7 +7,7 @@ Repositório para guardar meus desafios do <strong>Ignite - ReactJS</strong>, da
 
 ## Chapter I.
 - Conceitos do ReactJS
-- <a href="https://github.com/beadobruski/ignite-challenge1">Desafio nº 1</a>
+- <a href="https://github.com/beadobruski/ignite-challenge1" target="_blank">Desafio nº 1</a>
 #
 
 
